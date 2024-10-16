@@ -29,3 +29,7 @@
 - Main <a href="https://github.com/Sheddi-H/Attendance-Analytics-Dashboard/blob/main/Main.png">View Main Form</a>
 - User <a href="https://github.com/Sheddi-H/Attendance-Analytics-Dashboard/blob/main/User.png">View User Form</a>
 - Admin <a href="https://github.com/Sheddi-H/Attendance-Analytics-Dashboard/blob/main/Admin.png">View Admin Form</a>
+## Project Insights
+    - The implementation of the dashboard has significantly improved the efficiency of attendance tracking.
+    - Administrators can quickly assess user performance and attendance trends, enabling better decision-making.
+    - The ability to export data to Excel enhances reporting capabilities and allows for more extensive analysis.
