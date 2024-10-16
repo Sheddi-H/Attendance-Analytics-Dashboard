@@ -26,4 +26,4 @@
     - Data Transformation: The system includes functionality to export attendance data to Excel for further analysis and reporting.
     - Dashboard Creation: A visually engaging dashboard is created to display relevant metrics and insights.
 ## Dashboard
-- Admin <a https://github.com/Sheddi-H/Attendance-Analytics-Dashboard/blob/main/Main.png> View Admin Form </a>
+- Admin <a href="https://github.com/Sheddi-H/Attendance-Analytics-Dashboard/blob/main/Main.png">View Admin Form</a>
