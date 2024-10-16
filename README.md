@@ -27,8 +27,8 @@
     - Dashboard Creation: A visually engaging dashboard is created to display relevant metrics and insights.
 ## Dashboard
 - <strong>Main</strong> ![alt text](https://github.com/Sheddi-H/Attendance-Analytics-Dashboard/blob/main/Main.png)
-- User <a href="https://github.com/Sheddi-H/Attendance-Analytics-Dashboard/blob/main/User.png">View User Form</a>
-- Admin <a href="https://github.com/Sheddi-H/Attendance-Analytics-Dashboard/blob/main/Admin.png">View Admin Form</a>
+- <strong>User</strong> ![alt text](https://github.com/Sheddi-H/Attendance-Analytics-Dashboard/blob/main/User.png)
+- <strong>Admin</strong> ![alt text](https://github.com/Sheddi-H/Attendance-Analytics-Dashboard/blob/main/Admin.png)
 ## Project Insights
     - The implementation of the dashboard has significantly improved the efficiency of attendance tracking.
     - Administrators can quickly assess user performance and attendance trends, enabling better decision-making.
